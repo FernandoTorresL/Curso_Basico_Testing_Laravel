@@ -15,4 +15,12 @@ class PostTest extends TestCase
 
         $this->assertEquals('proyecto en php', $post->name);
     }
+
+    public function test_get_slug()
+    {
+        $post = new Post;
+        $post->name = 'Proyecto en PHP';
+
+        $this->assertEquals('proyecto-en-php', $post->slug);
+    }
 }
