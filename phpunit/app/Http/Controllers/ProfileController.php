@@ -8,7 +8,7 @@ class ProfileController extends Controller
 {
     public function upload(Request $request)
     {
-        $request->file('photo')->store('profile');
+        $request->file('photo')->store('profiles');
 
         return redirect('profile');
     }
