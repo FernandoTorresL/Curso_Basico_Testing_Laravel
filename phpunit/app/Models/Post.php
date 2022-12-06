@@ -20,4 +20,10 @@ class Post extends Model
     {
         return str_replace(' ', '-', $this->name);
     }
+
+    // Método propio
+    public function href()
+    {
+        return "blog/{$this->slug}";
+    }
 }
