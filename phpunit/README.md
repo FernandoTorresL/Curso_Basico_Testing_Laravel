@@ -1,3 +1,59 @@
+# [Curso Básico de Testing con PHP y Laravel, Platzi](https://platzi.com/cursos/laravel-testing/)
+## [Platzi](https://platzi.com/)
+
+<a href="https://github.com/FernandoTorresL/Curso_Basico_Testing_Laravel/commits/main" target="_blank">![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/Curso_Basico_Testing_Laravel)</a>
+
+<a href="https://github.com/FernandoTorresL/Curso_Basico_Testing_Laravel" target="_blank">![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/Curso_Basico_Testing_Laravel)</a>
+
+---
+
+### Description
+Course Professor: Italo Morales F, [@italomoralesf](https://twitter.com/@italomoralesf)
+
+### [Curso Básico de Testing con PHP y Laravel, Platzi](https://platzi.com/cursos/laravel-testing/)
+In this course we learn:
+
+- Design unitary test using assertions
+- Develop a web app using TDD
+- Personalize test methods for Laravel
+- Apply accessors and mutators on unit test
+
+---
+
+### Installation
+WIP
+#### Clone this repo
+
+You can use and change *_<my_folder>_* on this instruction to create a new folder
+
+```cmd
+git clone git@github.com:FernandoTorresL/Curso_Basico_Testing_Laravel.git <my_folder>
+```
+
+#### Change to working directory
+
+```cmd
+cd <my_folder>
+```
+
+
+<div align="center">
+    <a href="https://fertorresmx.dev/">
+      <img height="150em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/FerTorres-dev1.png">
+  </a>
+</div>
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/fertorresmx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fertorresmx&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+</p>
+
+## Follow me 
+[fertorresmx.dev](https://fertorresmx.dev/)
+
+### :globe_with_meridians: [Twitter](https://twitter.com/FerTorresMx), [Instagram](https://www.instagram.com/fertorresmx/): @fertorresmx
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -24,8 +80,6 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
